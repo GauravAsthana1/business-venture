@@ -15,4 +15,6 @@
     jQuery, Modernizr
 
  --formation of the pulblic limited  company acheived on 1jun
+
+ --Core team formed inclduing CEO 16 July
  
