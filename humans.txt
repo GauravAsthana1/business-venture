@@ -21,4 +21,6 @@
  -- Hiring and forming the development team.
 
  -- Product development process launch
+
+ -- Hiring and forming HR, administrative and purchasing dept. 
  
