@@ -18,3 +18,7 @@
 
  --Core team formed inclduing CEO 16 July
  
+ -- Hiring and forming the development team.
+
+ -- Product development process launch
+ 
