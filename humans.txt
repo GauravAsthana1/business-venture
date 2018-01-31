@@ -1,4 +1,5 @@
-# humanstxt.org/
+#
+humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
@@ -32,3 +33,5 @@
  --Major product launch
 
  --Beta also lauched
+
+ --Press release for beta 
