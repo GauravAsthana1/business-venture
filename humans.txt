@@ -24,3 +24,4 @@
 
  -- Hiring and forming HR, administrative and purchasing dept. 
  
+ --Admin dept purchases office stationy. 
